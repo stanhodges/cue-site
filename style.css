@@ -1,0 +1,11 @@
+:root { color-scheme: light dark; }
+body {
+  margin: 0;
+  font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  background: Canvas;
+  color: CanvasText;
+}
+main { max-width: 640px; margin: 0 auto; padding: 48px 16px; }
+h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
+h2 { font-size: 1.15rem; margin-top: 2rem; }
+a { color: #0a84ff; }
